@@ -8,7 +8,7 @@ Smart-Contract
 1. send, receive, store money
 2. interact with other smart contracts
 3. read, write, computations
-4. **store data(Security Log's Blockchain)**
+4. **store data([Security Log's Blockchain](https://github.com/ashuantw/securitylogblockchain))**
 
 ### Tool
 [TRUFFLE](https://trufflesuite.com/truffle/): 
